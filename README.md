@@ -1,2 +1,2 @@
 # Weather-Application
-its weather application i have created using Javascript.
+This weather application is a simple web-based project built using HTML, CSS, and JavaScript.It allows users to check real-time weather information for any city or location by fetching data from a public weather API.The user can search for a city and instantly view details such as temperature, weather conditions, humidity, and wind speed. The project utilizes clean design and responsive elements to provide a user-friendly experience on both desktop and mobile devices. This application is perfect for learning the basics of API integration and front-end development.
